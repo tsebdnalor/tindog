@@ -1,2 +1,1 @@
-# tindog
-Meet new and interesting dogs nearby
+TinDog Starting Files
